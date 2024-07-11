@@ -2,6 +2,3 @@ abc123
 defg
 hij
 kkk
-lll
-mmm
-d11
